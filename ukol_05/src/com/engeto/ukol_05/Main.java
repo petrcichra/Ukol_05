@@ -9,8 +9,8 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static final String FILEPATH = "plants.csv";
-    public static final String EXPORTFILE = "plantsExport.csv";
+    public static final String FILEPATH = "ukol_05/plants.csv";
+    public static final String EXPORTFILE = "ukol_05/plantsExport.csv";
     public static final String DELIMITER = ";";
     public static final int STATUS_CANNOT_READ_FILE = 1;
 
